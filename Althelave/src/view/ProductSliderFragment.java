@@ -129,8 +129,6 @@ public class ProductSliderFragment extends JPanel implements MouseListener{
 						e1.printStackTrace();
 					}
 				}
-				System.out.println(productsScrollBar.getValue());
-//				productsScrollBar.setValue(productsScrollBar.getValue() + movement);
 			}
 		}
 		else if(e.getSource() == leftArrow){
@@ -151,10 +149,6 @@ public class ProductSliderFragment extends JPanel implements MouseListener{
 					}
 				}
 			}
-//			if(productsScrollBar.getValue() - movement > movement){
-//				productsScrollBar.setValue(productsScrollBar.getValue() - movement);
-//			}
-//			else productsScrollBar.setValue(productsScrollBar.getMaximum());
 		}
 	}
 
