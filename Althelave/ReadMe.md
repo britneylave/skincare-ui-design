@@ -6,13 +6,18 @@ Desktop Application
 </h1>
 
 ## Description
+This is a Desktop Application, created using Java GUI. The main function itself is to display skincare informations and products.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Features
+There are several functions in this application:
+- Automatic Carousel -> just like Instagram Story (top right).
+- Manual Carousel -> to view top products (at the bottom, before About Us section).
+- Scroll Pane -> to view informations about the application, there are hover effect when any of the information is hovered (middle left).
+- A couple Menus:
+  * Brands -> to view existing brands in the application, user may user mnemonic & accelerator to open any menu item for faster experience. when redirected to any brand page, there are hover effect when any product is hovered. every brand page has a 'back' button.
+  * Skincare Guide for Beginner -> redirect to a youtube video.
+- About us -> "About Us" text changes when hovered.
+
 
 ## Screenshots
 
@@ -23,14 +28,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   <img src="../screenshots/innisfree_body.png" width="270" alt="Innisfree Body">
   <img src="../screenshots/innisfree_skin.png" width="270" alt="Innisfree Skin">
 </p>
-
-## Features
-
-- [x] Home (News, Slider, Menu)
-- [x] About Us
-- [x] Caudalie Page
-- [x] Laneige Page
-
 
 ## License
 
