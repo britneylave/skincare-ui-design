@@ -63,9 +63,9 @@ There are several functions in this application:
   
   <br/>
   
-  <img src="screenshots/about us hover 1.png" width="270" alt="About Us 1">
+  <img src="screenshots/about-us-1.png" width="270" alt="About Us 1">
   <br/>
-  <img src="screenshots/about us hover 2.png" width="270" alt="About Us 2">
+  <img src="screenshots/about-us-2.png" width="270" alt="About Us 2">
   <p>About Us</p>
 </div>
 
