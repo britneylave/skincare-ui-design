@@ -11,9 +11,9 @@ This is a Desktop Application, created using Java GUI. The main function itself 
 ## Features
 There are several functions in this application:
 - Automatic Carousel -> just like Instagram Story (top right).
-- Manual Carousel -> to view top products (at the bottom, before About Us section).
+- Manual Carousel -> to view Hot Items (at the bottom, before About Us section).
 - Scroll Pane -> to view informations about the application, there are hover effect when any of the information is hovered (middle left).
-- A couple Menus:
+- A couple Menus -> with hover effect:
   * Brands -> to view existing brands in the application, user may user mnemonic & accelerator to open any menu item for faster experience. when redirected to any brand page, there are hover effect when any product is hovered. every brand page has a 'back' button.
   * Skincare Guide for Beginner -> redirect to a youtube video.
 - About us -> "About Us" text changes when hovered.
@@ -21,13 +21,53 @@ There are several functions in this application:
 
 ## Screenshots
 
-<p align="center">
+<div style="display: inline-block; vertical-align: middle;">
   <img src="../screenshots/home.png" width="270" alt="Home">
-  <img src="../screenshots/caudalie.png" width="270" alt="Caudalie">
-  <img src="../screenshots/laneige.png" width="270" alt="Laneige">
-  <img src="../screenshots/innisfree_body.png" width="270" alt="Innisfree Body">
-  <img src="../screenshots/innisfree_skin.png" width="270" alt="Innisfree Skin">
-</p>
+  <p>Home</p>
+ 
+  <br/>
+  
+  <img src="../screenshots/side_slider_1.PNG" width="270" alt="Slide 1">
+  <p>Automatic Carousel</p>
+ 
+  <br/>
+  
+  <p><img src="../screenshots/hot_items_slider.PNG" width="270" alt="Hot Items">
+  <p>Manual Carousel</p>
+  
+  <br/>
+ 
+  <img src="../screenshots/news.PNG" width="270" alt="News">
+  <br/>
+  <img src="../screenshots/hovered_news.PNG" width="270" alt="Hovered News">
+  <p>Scroll Pane</p>
+  
+  <br/>
+  
+  <img src="../screenshots/menu hover 1.PNG" width="270" alt="Menu 1">
+  <br/>
+  <img src="../screenshots/menu hover 2.PNG" width="270" alt="Menu 2">
+  <p>Menus</p>
+  
+  <br/>
+  
+  <img src="../screenshots/caudalie.PNG" width="270" alt="Caudalie">
+  <br/>
+  <img src="../screenshots/laneige.PNG" width="270" alt="Laneige">
+  <p>Brands</p>
+  
+  <br/>
+  
+  <img src="../screenshots/open_in_browser.PNG" width="270" alt="Browser">
+  <p>Skincare Guide</p>
+  
+  <br/>
+  
+  <img src="../screenshots/about us hover 1.PNG" width="270" alt="About Us 1">
+  <br/>
+  <img src="../screenshots/about us hover 2.PNG" width="270" alt="About Us 2">
+  <p>About Us</p>
+</div>
 
 ## License
 
