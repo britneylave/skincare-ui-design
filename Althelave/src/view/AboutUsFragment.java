@@ -41,13 +41,11 @@ public class AboutUsFragment extends JPanel implements MouseListener{
 			@Override
 			public void run() {
 				if(on){
-//					setCursor(Cursor.HAND_CURSOR);
 					aboutUsLabel.setText(helper.getString("Althelave is "
 						+ "an Indonesia-based Company that sells skincare products, dedicated "
 						+ "to skincare <br/> enthusiasts! Althelave offers the lowest prices "
 						+ "with guaranteed authenticity", 10, "text-align:center;color: "+color+";"));
 				}else{
-//					setCursor(Cursor.DEFAULT_CURSOR);
 					aboutUsLabel.setText(helper.getString("About Us", 11, "color: "+color+";"));
 				}
 			}

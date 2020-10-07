@@ -24,14 +24,7 @@ public class HappeningFragment extends JScrollPane{
 
 	private JPanel containerPanel;
 	private Helper helper;
-	private String str = 
-			"<html>"
-			+ "Lorem ipsum dolor sit amet, consectetur<br/>"
-			+ "adipiscing elit sed do tempor gremonae<br/>"
-			+ "incididunt ut labore et dolore<br/>"
-			+ "magna aliqua. Ut enim ad minim veniam,<br/>"
-			+ "commodo consequat. Duis aute irure<br/>"
-			+ "dolor in reprehenderit laborum.<br/></html>"; //default
+	private String str = "";
 	private ArrayList<ImageIcon> images;
 	private ArrayList<String> descriptions;
 	private Color SEPARATOR_COLOR = new Color(255, 208, 223);
