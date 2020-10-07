@@ -22,50 +22,50 @@ There are several functions in this application:
 ## Screenshots
 
 <div style="display: inline-block; vertical-align: middle;">
-  <img src="../screenshots/home.png" width="270" alt="Home">
+  <img src="screenshots/home.png" width="270" alt="Home">
   <p>Home</p>
  
   <br/>
   
-  <img src="../screenshots/side_slider_1.png" width="270" alt="Slide 1">
+  <img src="screenshots/side_slider_1.png" width="270" alt="Slide 1">
   <p>Automatic Carousel</p>
  
   <br/>
   
-  <p><img src="../screenshots/hot_items_slider.png" width="270" alt="Hot Items">
+  <p><img src="screenshots/hot_items_slider.png" width="270" alt="Hot Items">
   <p>Manual Carousel</p>
   
   <br/>
  
-  <img src="../screenshots/news.png" width="270" alt="News">
+  <img src="screenshots/news.png" width="270" alt="News">
   <br/>
-  <img src="../screenshots/hovered_news.png" width="270" alt="Hovered News">
+  <img src="screenshots/hovered_news.png" width="270" alt="Hovered News">
   <p>Scroll Pane</p>
   
   <br/>
   
-  <img src="../screenshots/menu hover 1.png" width="270" alt="Menu 1">
+  <img src="screenshots/menu hover 1.png" width="270" alt="Menu 1">
   <br/>
-  <img src="../screenshots/menu hover 2.png" width="270" alt="Menu 2">
+  <img src="screenshots/menu hover 2.png" width="270" alt="Menu 2">
   <p>Menus</p>
   
   <br/>
   
-  <img src="../screenshots/caudalie.png" width="270" alt="Caudalie">
+  <img src="screenshots/caudalie.png" width="270" alt="Caudalie">
   <br/>
-  <img src="../screenshots/laneige.png" width="270" alt="Laneige">
+  <img src="screenshots/laneige.png" width="270" alt="Laneige">
   <p>Brands</p>
   
   <br/>
   
-  <img src="../screenshots/open_in_browser.png" width="270" alt="Browser">
+  <img src="screenshots/open_in_browser.png" width="270" alt="Browser">
   <p>Skincare Guide</p>
   
   <br/>
   
-  <img src="../screenshots/about us hover 1.png" width="270" alt="About Us 1">
+  <img src="screenshots/about us hover 1.png" width="270" alt="About Us 1">
   <br/>
-  <img src="../screenshots/about us hover 2.png" width="270" alt="About Us 2">
+  <img src="screenshots/about us hover 2.png" width="270" alt="About Us 2">
   <p>About Us</p>
 </div>
 
